@@ -1,6 +1,6 @@
 /*logo*/
 .logo {
-    background: url("img/CREWZ-USA_logo_horizontal.svg") no-repeat left center;
+    background: url("/img/CREWZ-USA_logo_horizontal.svg") no-repeat left center;
     background-size: contain;
     height: 90px;
     min-width: 250px;
